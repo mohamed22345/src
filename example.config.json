@@ -1,0 +1,9 @@
+{
+    "port": 8100,
+    "passphrase": "dc",
+    "guild": "600911209117646859",
+    "bots": [{
+        "channel": "discord-to-server",
+        "token": "NjA3Mjc1MDQ2MzM1MTUyMTU2.XUXPLQ.VjTwlNh478p2YTvcxJ37d62JfFk"
+    }]
+}
